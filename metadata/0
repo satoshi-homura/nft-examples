@@ -1,25 +1,29 @@
 {
-  "name": "Photograph T-shirt #001",
-  "description": "This is Photograph T-shirt.",
-  "image": "https://raw.githubusercontent.com/satoshi-homura/nft-examples/main/0.png",
-  "animation_url": "https://raw.githubusercontent.com/satoshi-homura/nft-examples/main/0.glb",
-  "background_color": "#ffffff",
+  "name": "RTFKT One",
+  "description": "This is a sneaker called RTFKT One.",
+  "image": "https://raw.githubusercontent.com/satoshi-homura/nft-examples/main/1.png",
+  "animation_url": "https://raw.githubusercontent.com/satoshi-homura/nft-examples/main/1.glb",
+  "background_color": "#000000",
   "attributes": [
     {
       "trait_type": "Item",
-      "value": "T-shirt"
+      "value": "Sneaker"
+    },
+    {
+      "trait_type": "Model",
+      "value": "RTFKT One"
+    },
+    {
+      "trait_type": "Type",
+      "value": "High"
     },
     {
       "trait_type": "Color",
       "value": "White"
     },
     {
-      "trait_type": "Front",
-      "value": "Photo"
-    },
-    {
-      "trait_type": "Back",
-      "value": "None"
+      "trait_type": "Material",
+      "value": "Leather"
     }
   ]
 }
