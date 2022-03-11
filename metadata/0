@@ -1,0 +1,25 @@
+{
+  "name": "Photograph T-shirt #001",
+  "description": "This is Photograph T-shirt.",
+  "image": "https://raw.githubusercontent.com/satoshi-homura/nft-examples/main/0.png",
+  "animation_url": "https://raw.githubusercontent.com/satoshi-homura/nft-examples/main/0.glb",
+  "background_color": "#ffffff",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "T-shirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Front",
+      "value": "Photo"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    }
+  ]
+}
